@@ -9,7 +9,7 @@
     "typescript": "^3.8.0-beta"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "axios-cookiejar-support": "^0.5.1",
     "cron": "^1.8.2"
   }
